@@ -1,0 +1,1 @@
+# Node: sesión de usuario, autenticación y autorización
