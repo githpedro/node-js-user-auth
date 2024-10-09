@@ -1,0 +1,50 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+logs/*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by testing frameworks
+coverage/
+
+# Output of 'npm pack'
+*.tgz
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.test
+.env.production
+
+# IDE-specific files (Visual Studio Code, JetBrains, etc.)
+.vscode/
+.idea/
+
+# Optional npm cache directory
+.npm/
+
+# Dist directory (for compiled output)
+dist/
+build/
+
+# Temporary folders
+tmp/
+temp/
+
+# Debug files from npm
+npm-debug.log*
+
+# Typescript specific (if you are using TypeScript)
+*.tsbuildinfo
